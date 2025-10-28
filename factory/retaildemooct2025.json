@@ -1,0 +1,9 @@
+{
+	"name": "retaildemooct2025",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e0ecacc7-9d39-4445-a5bb-9b9c5d685b77",
+		"tenantId": "ed317278-a9e1-4710-9d03-02918477a1b7"
+	}
+}
