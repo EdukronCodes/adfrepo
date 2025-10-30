@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "retaildemooct2025"
 		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
+		"AzureDatabricks2_accessToken": {
+			"value": ""
+		},
 		"AzureSqlDatabase1_password": {
 			"value": ""
 		},
@@ -16,6 +22,9 @@
 		},
 		"ls_azure_gen2_accountKey": {
 			"value": ""
+		},
+		"AzureDatabricks2_properties_typeProperties_existingClusterId": {
+			"value": "1030-011116-gxm5mouq"
 		},
 		"AzureSqlDatabase1_properties_typeProperties_server": {
 			"value": "retaildatabaseoct2025.database.windows.net"
